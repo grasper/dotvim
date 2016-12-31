@@ -1,6 +1,6 @@
 execute pathogen#infect()
 
-"colorscheme atom-dark-256
+colorscheme atom-dark-256
 syntax on
 filetype plugin indent on
 
